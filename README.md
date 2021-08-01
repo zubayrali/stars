@@ -245,6 +245,7 @@
 
 ## JavaScript 
 
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client!
 - [clearstudio/picee](https://github.com/clearstudio/picee) - Using Github as your image hosting service.
