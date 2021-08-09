@@ -61,6 +61,7 @@
 
 ## C 
 
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
 - [linux-apfs/linux-apfs-rw](https://github.com/linux-apfs/linux-apfs-rw) - APFS module for linux, with experimental write support
@@ -259,6 +260,7 @@
 
 ## JavaScript 
 
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [calculist/calculist](https://github.com/calculist/calculist) - the open source thinking tool for problem solvers
 - [vikrum/kidpix](https://github.com/vikrum/kidpix) - JSKIDPIX v1.0.2021
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
@@ -456,6 +458,7 @@
 
 ## Lua 
 
+- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
@@ -491,6 +494,7 @@
 
 ## Others 
 
+- [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [SteveMCarroll/PronouncingNamesForEnglishSpeakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) - A practical guide to how to pronounce non-English names for English speakers
 - [nathanpeck/awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
@@ -614,6 +618,7 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [Thundergang/thunderuserbot](https://github.com/Thundergang/thunderuserbot) - Best Telegram Userbot, Made With Love... :)
 - [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -730,6 +735,7 @@
 
 ## Rust 
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [agora-org/agora](https://github.com/agora-org/agora) - File server that accepts Lightning Network payments for downloads
 - [dkellner/chronofold](https://github.com/dkellner/chronofold) - Chronofold is a conflict-free replicated data structure (a.k.a. CRDT) for versioned text.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -787,6 +793,7 @@
 
 ## TypeScript 
 
+- [mui-org/material-ui-x](https://github.com/mui-org/material-ui-x) - The Material-UI eXtension with advanced components for a richer eXperience.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [TfTHacker/Obsidian-WordNet](https://github.com/TfTHacker/Obsidian-WordNet) - WordNet plugin for Obsidian.  WordNet is a large lexical database of English developed by Princeton University and its license allows use in other applications.
 - [binnyva/yaml-my-hashtags](https://github.com/binnyva/yaml-my-hashtags) - Obsidian Plugin to converts your #tag-name type tags to YAML frontmatter tags.
@@ -852,6 +859,7 @@
 
 ## Vim script 
 
+- [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [cormacrelf/vim-colors-github](https://github.com/cormacrelf/vim-colors-github) - A Vim colorscheme based on Github's syntax highlighting as of 2018.
 - [rstacruz/vim-opinion](https://github.com/rstacruz/vim-opinion) - My opinionated vim defaults
