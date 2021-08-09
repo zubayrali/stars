@@ -29,14 +29,18 @@
   - [Markdown](#markdown)
   - [Mustache](#mustache)
   - [Nim](#nim)
+  - [Nix](#nix)
+  - [Objective-C](#objective-c)
   - [OpenQASM](#openqasm)
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [QML](#qml)
+  - [R](#r)
   - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -53,10 +57,14 @@
 
 ## Assembly 
 
-- [d0t0n10n/HelloWorlds](https://github.com/d0t0n10n/HelloWorlds) - Hello World code in most programming languages
+- [d0t0n10n/HelloWorlds](https://github.com/d0t0n10n/HelloWorlds) - Hello-World program in most programming languages
 
 ## C 
 
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
+- [linux-apfs/linux-apfs-rw](https://github.com/linux-apfs/linux-apfs-rw) - APFS module for linux, with experimental write support
+- [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
 - [ilyakurdyukov/ioccc](https://github.com/ilyakurdyukov/ioccc) - My IOCCC submissions and practice.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -73,11 +81,13 @@
 
 ## C# # 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 
 ## C++ 
 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [zodiacon/RegExp](https://github.com/zodiacon/RegExp) - Registry Explorer - enhanced Registry editor/viewer
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2 and VST3 plugins on Linux
@@ -97,7 +107,7 @@
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [GuangluWu/obsidian-andygruv](https://github.com/GuangluWu/obsidian-andygruv) - This is an obsidian theme combined and modified from two existing themes: obsidian_gruvbox and Comfort-Coda.
 - [santiyounger/Reverie-Obsidian-Theme](https://github.com/santiyounger/Reverie-Obsidian-Theme) - This is an Obsidian Theme with Dark Mode and Light Mode Functionality
-- [TriDiamond/Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
+- [bennyxguo/Obsidian-Obsidianite](https://github.com/bennyxguo/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [reallyely/nosedive-obsidian](https://github.com/reallyely/nosedive-obsidian) - A CSS theme for  obsidian.md
 - [logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples) - Logseq plugin samples for beginner 🌱
 - [joshwingreene/Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
@@ -149,6 +159,8 @@
 
 ## Go 
 
+- [AOSPAlliance/device-flasher](https://github.com/AOSPAlliance/device-flasher) - Android Factory Image Flasher for Linux, macOS and Windows
+- [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [varbhat/torpar](https://github.com/varbhat/torpar) - TUI Client for Torrent Paradise
@@ -166,16 +178,17 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [streambinder/spotitube](https://github.com/streambinder/spotitube) - Synchronize your Spotify collections downloading from external providers
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
-- [tulir/mautrix-whatsapp](https://github.com/tulir/mautrix-whatsapp) - A Matrix-WhatsApp puppeting bridge
+- [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [malfunkt/arpfox](https://github.com/malfunkt/arpfox) - An arpspoof alternative (written in Go) that injects spoofed ARP packets into a LAN.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 
 ## HTML 
 
+- [eatonphil/notes.eatonphil.com](https://github.com/eatonphil/notes.eatonphil.com) - 
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [stevekrouse/WoofJS](https://github.com/stevekrouse/WoofJS) - Learnable JavaScript
-- [kebifurai/TiddlyResearch](https://github.com/kebifurai/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
+- [postkevone/TiddlyResearch](https://github.com/postkevone/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
 - [Souk21/TW-commandpalette](https://github.com/Souk21/TW-commandpalette) - A command palette for TiddlyWiki. Demo: https://souk21.github.io/TW-commandpalette/
 - [morosanuae/tw-icons](https://github.com/morosanuae/tw-icons) - A large collection of icons for TiddlyWiki
 - [kookma/TW-Shiraz](https://github.com/kookma/TW-Shiraz) - Shiraz is a small Tiddlywiki 5 plugin contains macros, stylesheets, templates, snippets, images, static tables, dynamic tables and acts as a starter kit.
@@ -187,7 +200,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [andronov04/mondrian-art](https://github.com/andronov04/mondrian-art) - 🖼️ Generate Piet Mondrian Art
 - [rr-tw5/rr-tw5.github.io](https://github.com/rr-tw5/rr-tw5.github.io) - A Roam Research Styled TiddlyWiki
-- [kebifurai/tiddlystudy](https://github.com/kebifurai/tiddlystudy) - 
+- [postkevone/tiddlystudy](https://github.com/postkevone/tiddlystudy) - 
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [joekroese/tiddlyroam](https://github.com/joekroese/tiddlyroam) - Your open source external brain
 - [sobjornstad/TiddlyRemember](https://github.com/sobjornstad/TiddlyRemember) - Embed Anki notes in your TiddlyWiki
@@ -203,7 +216,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
-- [hugcis/hugcis.github.io](https://github.com/hugcis/hugcis.github.io) - 
+- [hugcis/hugcis.github.io](https://github.com/hugcis/hugcis.github.io) - Hugo Cisneros' personal website
 - [maximevaillancourt/maximevaillancourt.com](https://github.com/maximevaillancourt/maximevaillancourt.com) - Personal blog + digital garden 📝
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
@@ -246,11 +259,15 @@
 
 ## JavaScript 
 
+- [calculist/calculist](https://github.com/calculist/calculist) - the open source thinking tool for problem solvers
+- [vikrum/kidpix](https://github.com/vikrum/kidpix) - JSKIDPIX v1.0.2021
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
+- [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
+- [susam/muboard](https://github.com/susam/muboard) - Self-rendering and distributable mathematics chalkboards
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
-- [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [toger5/TheBoard](https://github.com/toger5/TheBoard) - A collaborative Whiteboard powered by the [matrix] protocol and infrastucture.
-- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and open-source. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client
@@ -391,7 +408,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [shalotelli/hashtagcoder-v2](https://github.com/shalotelli/hashtagcoder-v2) - Technical tutorials, development and career advice predominantly focusing on JavaScript.
@@ -440,7 +457,7 @@
 ## Lua 
 
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
 ## Makefile 
 
@@ -459,6 +476,14 @@
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [ParrotSec/anonsurf](https://github.com/ParrotSec/anonsurf) - parrot anonymous mode
+
+## Nix 
+
+- [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
+
+## Objective-C 
+
+- [mszoek/airyx](https://github.com/mszoek/airyx) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 
 ## OpenQASM 
 
@@ -575,6 +600,10 @@
 
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 
+## Pascal 
+
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
+
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -585,6 +614,8 @@
 
 ## Python 
 
+- [Thundergang/thunderuserbot](https://github.com/Thundergang/thunderuserbot) - Best Telegram Userbot, Made With Love... :)
+- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ealbiter/qnotero](https://github.com/ealbiter/qnotero) - Standalone sidekick to the Zotero reference manager
 - [GNOME/ocrfeeder](https://github.com/GNOME/ocrfeeder) - Read-only mirror of https://gitlab.gnome.org/GNOME/ocrfeeder
@@ -657,7 +688,7 @@
 - [EnxGitHub/reddit_bot](https://github.com/EnxGitHub/reddit_bot) - 
 - [pysheng/pysheng](https://github.com/pysheng/pysheng) - Automatically exported from code.google.com/p/pysheng
 - [MartijnVogelaar/krunner-spotify](https://github.com/MartijnVogelaar/krunner-spotify) - Allows you to easily control Spotify via KRunner.
-- [tulir/mautrix-telegram](https://github.com/tulir/mautrix-telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
+- [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [dbeley/lastfm_cg](https://github.com/dbeley/lastfm_cg) - Lastfm collage generator (+ twitter/mastodon bot to post the generated collages).
 - [SusmithKrishnan/torghost](https://github.com/SusmithKrishnan/torghost) - TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
 - [evilhero/mylar](https://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
@@ -675,6 +706,10 @@
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 - [yeyushengfan258/Win10OS-kde](https://github.com/yeyushengfan258/Win10OS-kde) - Win10OS kde is a light clean theme for KDE Plasma desktop.
 
+## R 
+
+- [melling/ISLR](https://github.com/melling/ISLR) - Introduction to Statistical Learning
+
 ## Rich Text Format 
 
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
@@ -685,6 +720,7 @@
 
 ## Ruby 
 
+- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [TracksApp/tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
@@ -694,6 +730,7 @@
 
 ## Rust 
 
+- [agora-org/agora](https://github.com/agora-org/agora) - File server that accepts Lightning Network payments for downloads
 - [dkellner/chronofold](https://github.com/dkellner/chronofold) - Chronofold is a conflict-free replicated data structure (a.k.a. CRDT) for versioned text.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -713,6 +750,7 @@
 
 ## Shell 
 
+- [ndren/redbean-onionshare](https://github.com/ndren/redbean-onionshare) - OnionShare; no Flask, just redbean.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR inspired package manager for Ubuntu
 - [Bhaviktutorials/T-Remix](https://github.com/Bhaviktutorials/T-Remix) - This Tool will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look And it also haas feature of password, you can also set  Password on your Termux.
 - [JacobEvelyn/git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Stop trying to always blame others and take some responsibility already.
@@ -742,12 +780,14 @@
 
 ## TeX 
 
+- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 - [ContextLab/human-memory](https://github.com/ContextLab/human-memory) - Course materials for Dartmouth course: Human Memory (PSYC 51.09)
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
 
+- [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [TfTHacker/Obsidian-WordNet](https://github.com/TfTHacker/Obsidian-WordNet) - WordNet plugin for Obsidian.  WordNet is a large lexical database of English developed by Princeton University and its license allows use in other applications.
 - [binnyva/yaml-my-hashtags](https://github.com/binnyva/yaml-my-hashtags) - Obsidian Plugin to converts your #tag-name type tags to YAML frontmatter tags.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
@@ -812,6 +852,7 @@
 
 ## Vim script 
 
+- [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [cormacrelf/vim-colors-github](https://github.com/cormacrelf/vim-colors-github) - A Vim colorscheme based on Github's syntax highlighting as of 2018.
 - [rstacruz/vim-opinion](https://github.com/rstacruz/vim-opinion) - My opinionated vim defaults
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
