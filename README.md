@@ -82,12 +82,14 @@
 
 ## C# # 
 
+- [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 
 ## C++ 
 
+- [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [zodiacon/RegExp](https://github.com/zodiacon/RegExp) - Registry Explorer - enhanced Registry editor/viewer
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
@@ -104,6 +106,7 @@
 
 ## CSS 
 
+- [d0nd3r3k/PiR.tv](https://github.com/d0nd3r3k/PiR.tv) - Pirate TV on the the Raspberry PI
 - [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [GuangluWu/obsidian-andygruv](https://github.com/GuangluWu/obsidian-andygruv) - This is an obsidian theme combined and modified from two existing themes: obsidian_gruvbox and Comfort-Coda.
@@ -160,6 +163,7 @@
 
 ## Go 
 
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows
 - [AOSPAlliance/device-flasher](https://github.com/AOSPAlliance/device-flasher) - Android Factory Image Flasher for Linux, macOS and Windows
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings.
@@ -207,7 +211,7 @@
 - [sobjornstad/TiddlyRemember](https://github.com/sobjornstad/TiddlyRemember) - Embed Anki notes in your TiddlyWiki
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - An extreme fast, responsive and feature-rich Hugo theme. 一个极快、响应式和功能丰富的 Hugo 主题。
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, flexible and feature-rich Hugo theme. 一个快速、灵活、响应式和功能丰富的 Hugo 主题。
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [fireship-io/threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) - 3D Scrolling Portfolio Website with Three.js
 - [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
@@ -245,6 +249,7 @@
 
 ## Java 
 
+- [klinker41/android-smsmms](https://github.com/klinker41/android-smsmms) - Library for easily sending SMS and MMS for Android devices
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [NewProggie/SparkleShare-Android](https://github.com/NewProggie/SparkleShare-Android) - Android Client for SparkleShare
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
@@ -260,6 +265,16 @@
 
 ## JavaScript 
 
+- [GautierArcin/i18n-tailwind-nextjs-starter-blog](https://github.com/GautierArcin/i18n-tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
+- [flancast90/Speech-To-Text-in-TW5](https://github.com/flancast90/Speech-To-Text-in-TW5) - An implementation of the Web Speech API for Jermolene's TiddlyWiki5!
+- [JaeYeopHan/gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee) - 🐝Full Package | Simple | Fresh UI | Blog Template :: Let's start to blogging with gatsby-starter-bee!
+- [JaeYeopHan/JBEE.io](https://github.com/JaeYeopHan/JBEE.io) - 🏡 JBEE.io: Powered by `gatsby-starter-bee`. Source of
+- [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [uwu-tech/Kind](https://github.com/uwu-tech/Kind) - A modern proof language
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [calculist/calculist](https://github.com/calculist/calculist) - the open source thinking tool for problem solvers
 - [vikrum/kidpix](https://github.com/vikrum/kidpix) - JSKIDPIX v1.0.2021
@@ -287,7 +302,7 @@
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mika-cn/maoxian-web-clipper](https://github.com/mika-cn/maoxian-web-clipper) - A web extension to clip information from web page. Save it to your local machine to avoid information invalidation. Not bored registration, Not charged.
-- [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A tool that can reduce website bandwidth costs
+- [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - 基于 Service Worker 实现的前端 CDN
 - [protw/twfarm](https://github.com/protw/twfarm) - TW5 Farm is a method of centralized multi-wiki support on the Internet.
 - [ryanpcmcquen/DrWrite](https://github.com/ryanpcmcquen/DrWrite) - 
 - [NicolasPetton/NPL](https://github.com/NicolasPetton/NPL) - Nico's TiddlyWiki Plugin Library
@@ -306,7 +321,7 @@
 - [linonetwo/Tiddlywiki-NodeJS-Github-Template](https://github.com/linonetwo/Tiddlywiki-NodeJS-Github-Template) - Template to generate a auto-sync-to-github, privatcy-in-mind, freely-deployed TiddlyWiki.
 - [TiddlyWikiLinks/TiddlyWikiLinks](https://github.com/TiddlyWikiLinks/TiddlyWikiLinks) - TiddlyWiki Links
 - [milvus-io/milvus.io](https://github.com/milvus-io/milvus.io) - Milvus  official website.
-- [oflg/fishing](https://github.com/oflg/fishing) - ActiveRecall and SpacedRepetition for TiddlyWiki, fishing with Anki algorithm.
+- [oflg/fishing](https://github.com/oflg/fishing) - ActiveRecall and SpacedRepetition System in TiddlyWiki, fishing with Anki algorithm.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [leoherzog/LinuxExchange](https://github.com/leoherzog/LinuxExchange) - 👥💿 A peer-to-peer Linux ISO download website, powered by WebTorrent
 - [victorqribeiro/imgToAscii](https://github.com/victorqribeiro/imgToAscii) - A JavaScript implementation of a image to Ascii code
@@ -453,6 +468,8 @@
 
 ## Kotlin 
 
+- [traccar/traccar-sms-gateway](https://github.com/traccar/traccar-sms-gateway) - Traccar SMS Gateway for Android
+- [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
 
@@ -494,7 +511,10 @@
 
 ## Others 
 
-- [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
+- [geerlingguy/pi-dev-playbook](https://github.com/geerlingguy/pi-dev-playbook) - Raspberry Pi setup and configuration via Ansible.
+- [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- [wtsxDev/Raspberry-Pi](https://github.com/wtsxDev/Raspberry-Pi) - Raspberry Pi A to Z List
+- [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [SteveMCarroll/PronouncingNamesForEnglishSpeakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) - A practical guide to how to pronounce non-English names for English speakers
 - [nathanpeck/awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
@@ -550,7 +570,6 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [notiondog/notion.dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [guinuxbr/KDEConnect-commands](https://github.com/guinuxbr/KDEConnect-commands) - List of examples to be used in KDE Connect.
 - [fu4303/developer-portfolio-starters](https://github.com/fu4303/developer-portfolio-starters) - ☄️🚧WIP🚧 Collection of starters for various templates.  11ty, NextJS, GatsbyJs, VueJs, Gridsome and others.  Links to starters, repos and the authors homepages.
 - [ddauber/athens-cheat-sheet](https://github.com/ddauber/athens-cheat-sheet) - Athens Cheat sheet
@@ -618,6 +637,10 @@
 
 ## Python 
 
+- [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
+- [Tastyep/Pi-OpenCast](https://github.com/Tastyep/Pi-OpenCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
+- [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [Thundergang/thunderuserbot](https://github.com/Thundergang/thunderuserbot) - Best Telegram Userbot, Made With Love... :)
 - [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
@@ -645,7 +668,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
+- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
@@ -735,6 +758,7 @@
 
 ## Rust 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [agora-org/agora](https://github.com/agora-org/agora) - File server that accepts Lightning Network payments for downloads
 - [dkellner/chronofold](https://github.com/dkellner/chronofold) - Chronofold is a conflict-free replicated data structure (a.k.a. CRDT) for versioned text.
@@ -756,6 +780,15 @@
 
 ## Shell 
 
+- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
+- [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [RocketChat/Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi) - Run a private social network on your Pi for iPhone and Android devices !
+- [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+- [sdushantha/snaprecovery](https://github.com/sdushantha/snaprecovery) - Recover old Snaps that have “disappeared” from Snapchat
 - [ndren/redbean-onionshare](https://github.com/ndren/redbean-onionshare) - OnionShare; no Flask, just redbean.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR inspired package manager for Ubuntu
 - [Bhaviktutorials/T-Remix](https://github.com/Bhaviktutorials/T-Remix) - This Tool will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look And it also haas feature of password, you can also set  Password on your Termux.
@@ -770,8 +803,9 @@
 - [anstosa/tw5-material-theme](https://github.com/anstosa/tw5-material-theme) - Material Design theme for Tiddlywiki
 - [hashhar/picard-beets-config](https://github.com/hashhar/picard-beets-config) - MusicBrainz Picard tagger scripts, config and beets config
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [htr-tech/host](https://github.com/htr-tech/host) - Expose your LocalHost with this tool
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
@@ -793,6 +827,12 @@
 
 ## TypeScript 
 
+- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
+- [elvessousa/next-intl](https://github.com/elvessousa/next-intl) - Simple multilingual site made with Next.js
+- [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js. https://pankod.github.io/superplate/
+- [colinhacks/devii](https://github.com/colinhacks/devii) - A developer blog starter for 2021 (Next.js + React + TypeScript + Markdown + syntax highlighting)
+- [oceanbit/GitShark](https://github.com/oceanbit/GitShark) - 🦈 A Git client to surf through your repos on mobile
+- [skillrecordings/next-skill-product-starter](https://github.com/skillrecordings/next-skill-product-starter) - 
 - [mui-org/material-ui-x](https://github.com/mui-org/material-ui-x) - The Material-UI eXtension with advanced components for a richer eXperience.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [TfTHacker/Obsidian-WordNet](https://github.com/TfTHacker/Obsidian-WordNet) - WordNet plugin for Obsidian.  WordNet is a large lexical database of English developed by Princeton University and its license allows use in other applications.
@@ -847,7 +887,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [aaaakshat/gatsby-starter-texblog](https://github.com/aaaakshat/gatsby-starter-texblog) - A lightweight Gatsby starter with LaTeX functionality
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [BoostIO/BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams.
+- [BoostIO/BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum: https://forum.boostnote.io/
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [alemayhu/Notion-to-Anki](https://github.com/alemayhu/Notion-to-Anki) - Easily convert your Notion Toggles to Anki flashcards ⭐️
@@ -875,6 +915,7 @@
 
 ## Vue 
 
+- [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website) - Codebase for sigstore.dev
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [karngyan/karngyan.com.og](https://github.com/karngyan/karngyan.com.og) - Original Gangster
 - [Klaudioz/klaudioz.eth](https://github.com/Klaudioz/klaudioz.eth) - My portfolio based on https://template.karngyan.com
