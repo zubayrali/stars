@@ -39,6 +39,7 @@
   - [PLpgSQL](#plpgsql)
   - [Pascal](#pascal)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [QML](#qml)
   - [R](#r)
@@ -68,6 +69,7 @@
 
 ## C 
 
+- [landley/toybox](https://github.com/landley/toybox) - toybox
 - [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -98,6 +100,7 @@
 
 ## C# # 
 
+- [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -105,6 +108,8 @@
 
 ## C++ 
 
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
+- [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
@@ -121,12 +126,17 @@
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [Gargaj/Bonzomatic](https://github.com/Gargaj/Bonzomatic) - Live shader coding tool and Shader Showdown workhorse
 - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
-- [trebleshot/desktop](https://github.com/trebleshot/desktop) - An Open-Source file sharing software for Linux, macOS and Windows allowing you to send and receive files over available connections, and pause and resume transfer process even when an error is given
 - [MTK911/Attiny85](https://github.com/MTK911/Attiny85) - RubberDucky like payloads for DigiSpark Attiny85
 - [LibertaSoft/DatabaseAnime](https://github.com/LibertaSoft/DatabaseAnime) - Database of an anime | База данных аниме
 
 ## CSS 
 
+- [adithya-badidey/TW-Karya](https://github.com/adithya-badidey/TW-Karya) - A minimal project/task manager for TiddlyWiki
+- [curiositry/mnml-ghost-theme](https://github.com/curiositry/mnml-ghost-theme) - A minimal, responsive, fast ghost blog theme with great typography. Comes with paid membership support, Disqus comments, syntax highlighting, and KaTeX for mathematics, and more.
+- [TryGhost/Wave](https://github.com/TryGhost/Wave) - A podcast/blog theme for Ghost
+- [TryGhost/Edge](https://github.com/TryGhost/Edge) - A visually aesthetic portfolio theme for Ghost
+- [TryGhost/Dawn](https://github.com/TryGhost/Dawn) - A minimal newsletter theme for Ghost
+- [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [piperhaywood/commonplace-wp-theme](https://github.com/piperhaywood/commonplace-wp-theme) - A WordPress theme based on a Commonplace Book
 - [flancast90/tw5-primer](https://github.com/flancast90/tw5-primer) - GitHub's primer.css library... in tw5!
 - [d0nd3r3k/PiR.tv](https://github.com/d0nd3r3k/PiR.tv) - Pirate TV on the the Raspberry PI
@@ -187,6 +197,7 @@
 
 ## Go 
 
+- [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
@@ -226,6 +237,7 @@
 
 ## HTML 
 
+- [slowernews/slowernews](https://github.com/slowernews/slowernews) - Don't  spend a shit-ton of time filtering trivia.
 - [krry/commonplace-foamy-nextjs](https://github.com/krry/commonplace-foamy-nextjs) - My commonplace book published as a digital garden using Foam and Foamy-NextJS
 - [chrisaldrich/chrisaldrich.github.io](https://github.com/chrisaldrich/chrisaldrich.github.io) - A TiddlyWiki commonplace book
 - [sobjornstad/random-thoughts](https://github.com/sobjornstad/random-thoughts) - Public portions of my commonplace – publish-only repository
@@ -257,7 +269,7 @@
 - [sobjornstad/TiddlyRemember](https://github.com/sobjornstad/TiddlyRemember) - Embed Anki notes in your TiddlyWiki
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, flexible and feature-rich Hugo theme. 一个快速、灵活、响应式和功能丰富的 Hugo 主题。
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - New UI WIP: https://github.com/razonyang/hugo-theme-bootstrap/pull/215. A fast, responsive, flexible and feature-rich Hugo theme.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [fireship-io/threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) - 3D Scrolling Portfolio Website with Three.js
 - [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
@@ -315,6 +327,16 @@
 
 ## JavaScript 
 
+- [hoelzro/tiddlywiki-first-class-urls](https://github.com/hoelzro/tiddlywiki-first-class-urls) - An experimental plugin to make importing tiddlers easier
+- [Jermolene/sonic-pi-for-tiddlywiki](https://github.com/Jermolene/sonic-pi-for-tiddlywiki) - Jamming Sonic Pi with TiddlyWiki
+- [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
+- [JohnJKerr/gatsby-creative](https://github.com/JohnJKerr/gatsby-creative) - Gatsby implementation of Start Boostrap Creative template
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [sobjornstad/tzk](https://github.com/sobjornstad/tzk) - Zettelkasten edition and tooling for TiddlyWiki
+- [ehowey/gatsby-theme-catalyst](https://github.com/ehowey/gatsby-theme-catalyst) - An opinionated set of integrated themes and starters as a boilerplate to accelerate development with GatsbyJS
 - [pdf/kdeconnect-chrome-extension](https://github.com/pdf/kdeconnect-chrome-extension) - A browser extension to send pages and content from your browser to connected KDE Connect devices.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
@@ -373,7 +395,7 @@
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [toger5/TheBoard](https://github.com/toger5/TheBoard) - A collaborative Whiteboard powered by the [matrix] protocol and infrastucture.
-- [dosyago/ViewFinder](https://github.com/dosyago/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client
@@ -383,7 +405,6 @@
 - [weirdpattern/gatsby-remark-embed-gist](https://github.com/weirdpattern/gatsby-remark-embed-gist) - Gatsby remark gists preprocessor
 - [ekzhang/setwithfriends](https://github.com/ekzhang/setwithfriends) - 🎮 A frictionless multiplayer web app that lets you play Set with friends
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [logseq/publish](https://github.com/logseq/publish) - 
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -395,7 +416,7 @@
 - [protw/twfarm](https://github.com/protw/twfarm) - TW5 Farm is a method of centralized multi-wiki support on the Internet.
 - [ryanpcmcquen/DrWrite](https://github.com/ryanpcmcquen/DrWrite) - 
 - [NicolasPetton/NPL](https://github.com/NicolasPetton/NPL) - Nico's TiddlyWiki Plugin Library
-- [iammatthias/.com](https://github.com/iammatthias/.com) - Digital garden built with Gatsby, MDX, and IFPS. Strong focus on photography and flexible content.
+- [iammatthias/.com](https://github.com/iammatthias/.com) - Photography focused digital garden built using NextJS, MDX, Contentful, and Theme-UI.
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
 - [jlengstorf/jason.af](https://github.com/jlengstorf/jason.af) - 
 - [filips123/FirefoxPWA](https://github.com/filips123/FirefoxPWA) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
@@ -523,6 +544,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [solublestudio/gatsby-plugin-scroll-reveal](https://github.com/solublestudio/gatsby-plugin-scroll-reveal) - ✨ Gatsby plugin to animate your DOM elements on scroll
 - [adhavpavan/BasicNetwork-2.0](https://github.com/adhavpavan/BasicNetwork-2.0) - 
+- [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button) - A simple whatsapp button web component. Easily start whatsapp conversations!
 - [thelittlewonder/memebot](https://github.com/thelittlewonder/memebot) - Whatsapp bot to get meme templates
 - [jklepatch/eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
 - [infiduk/fff-front](https://github.com/infiduk/fff-front) - hyperledger fabric react quiz project
@@ -614,6 +636,11 @@
 
 ## Others 
 
+- [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
+- [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+- [jdjdjdjdjdjd/TW5-JD-Palettes](https://github.com/jdjdjdjdjdjd/TW5-JD-Palettes) - Color palettes for TW5
 - [babycastles/Babycastles-Academy](https://github.com/babycastles/Babycastles-Academy) - Lesson plans, notes from our Babycastles Academy public education programs
 - [TwistingTwists/twUPSCNotes](https://github.com/TwistingTwists/twUPSCNotes) - attempt to make public whatever I read.
 - [SonephetR2/TW5RandomTiddlerButton](https://github.com/SonephetR2/TW5RandomTiddlerButton) - Adds a random tiddler button to TiddlyWiki's page toolbar
@@ -744,8 +771,19 @@
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
+## PowerShell 
+
+- [TheRandomLabs/Scoop-Spotify](https://github.com/TheRandomLabs/Scoop-Spotify) - A Scoop bucket for Spotify, Spicetify and related packages.
+
 ## Python 
 
+- [actionless/pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+- [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
+- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [prgofficial/FileToLink](https://github.com/prgofficial/FileToLink) - A Telegram bot that can stream Telegram files to users over HTTP
+- [Artis7eeR/ForwardTagRemoverBot](https://github.com/Artis7eeR/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
+- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [oVoIndia/MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - A Bot to Upload files to Many Cloud services. Powered by Telethon.
 - [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
@@ -796,6 +834,7 @@
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Chia-Network/pool-reference](https://github.com/Chia-Network/pool-reference) - Reference python implementation of Chia pool operations for pool operators
@@ -880,6 +919,8 @@
 
 ## Ruby 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [thundergolfer/automated-github-organization-invites](https://github.com/thundergolfer/automated-github-organization-invites) - Quickly host a webpage allowing people to click and receive an invite to your Github Organization.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
@@ -892,6 +933,7 @@
 
 ## Rust 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [WesleyAC/commonplace](https://github.com/WesleyAC/commonplace) - knowledge system - notetaking, hierarchical tagging, mnemonic medium, exploring latent structure.
 - [seed-rs/seed-quickstart](https://github.com/seed-rs/seed-quickstart) - Bare essentials to start a Seed app.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
@@ -906,7 +948,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [ivanceras/hackernews-sauron](https://github.com/ivanceras/hackernews-sauron) - A fast, resilient, isomorphic hacker news clone in ~1k lines of rust.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [agora-org/agora](https://github.com/agora-org/agora) - File server that accepts Lightning Network payments for downloads
 - [dkellner/chronofold](https://github.com/dkellner/chronofold) - Chronofold is a conflict-free replicated data structure (a.k.a. CRDT) for versioned text.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -919,6 +961,8 @@
 
 ## SCSS 
 
+- [juliancwirko/abc](https://github.com/juliancwirko/abc) - Free theme for your Ghost blog
+- [zutrinken/attila](https://github.com/zutrinken/attila) - Ghost Theme
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A tiny CSS framework for building faithful recreations of the Windows 7 UI.
 - [abhinavs/moonwalk](https://github.com/abhinavs/moonwalk) - A fast & minimal Jekyll blog theme with clean dark mode
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -930,6 +974,7 @@
 
 ## Shell 
 
+- [SamuraiWTF/samuraiwtf](https://github.com/SamuraiWTF/samuraiwtf) - The main SamuraiWTF collaborative distro repo.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
@@ -991,6 +1036,12 @@
 
 ## TypeScript 
 
+- [thomas-coldwell/nextjs-supabase-instagram-clone](https://github.com/thomas-coldwell/nextjs-supabase-instagram-clone) - 
+- [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
+- [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
+- [churichard/notabase](https://github.com/churichard/notabase) - A personal knowledge base for networked thinking.
+- [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.
+- [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
@@ -1012,7 +1063,7 @@
 - [skillrecordings/next-skill-product-starter](https://github.com/skillrecordings/next-skill-product-starter) - 
 - [mui-org/material-ui-x](https://github.com/mui-org/material-ui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced components. We're kicking it off with the most powerful Data Grid on the market.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
-- [TfTHacker/Obsidian-WordNet](https://github.com/TfTHacker/Obsidian-WordNet) - WordNet plugin for Obsidian.  WordNet is a large lexical database of English developed by Princeton University and its license allows use in other applications.
+- [TfTHacker/Obsidian-WordNet](https://github.com/TfTHacker/Obsidian-WordNet) - WordNet plugin for Obsidian.  WordNet is a large lexical database of English developed by Princeton University and its license allows use in other applications. This plugin is a part of the Obsidian42 family of Obsidian plugins.
 - [binnyva/yaml-my-hashtags](https://github.com/binnyva/yaml-my-hashtags) - Obsidian Plugin to converts your #tag-name type tags to YAML frontmatter tags.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
@@ -1067,9 +1118,8 @@
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum (New!): https://github.com/BoostIO/BoostNote-App/discussions
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [alemayhu/Notion-to-Anki](https://github.com/alemayhu/Notion-to-Anki) - Easily convert your Notion Toggles to Anki flashcards ⭐️
+- [alemayhu/2anki.net](https://github.com/alemayhu/2anki.net) - Easily convert your Notion Toggles to Anki flashcards ⭐️
 - [tmmoond8/noticon](https://github.com/tmmoond8/noticon) - a icon library for notion
-- [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button) - A simple whatsapp button web component. Easily start whatsapp conversations!
 - [atlx/discord-term](https://github.com/atlx/discord-term) - Extensible Discord terminal client
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) - Solidity By Example
 - [elrypto/kode.art.template](https://github.com/elrypto/kode.art.template) - template project for kode.art tutorials
