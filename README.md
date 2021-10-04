@@ -69,6 +69,7 @@
 
 ## C 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
@@ -108,6 +109,9 @@
 
 ## C++ 
 
+- [munt/munt](https://github.com/munt/munt) - A multi-platform software synthesiser emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I. In no way endorsed by or affiliated with Roland Corp.
+- [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
+- [48cfu/game_of_life](https://github.com/48cfu/game_of_life) - The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. [Wikipedia]
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
@@ -237,6 +241,10 @@
 
 ## HTML 
 
+- [chrisdixon161/fun-javascript-projects.com](https://github.com/chrisdixon161/fun-javascript-projects.com) - Final code & stepped projects solutions for fun-javascript-projects.com
+- [BrickFrog/tw-blog](https://github.com/BrickFrog/tw-blog) - TiddlyWiki.
+- [kookma/status-badge](https://github.com/kookma/status-badge) - Tiddlywiki status badge
+- [unblocked-pw/unblocked-pw.github.io](https://github.com/unblocked-pw/unblocked-pw.github.io) - Github mirror for Unblocked
 - [slowernews/slowernews](https://github.com/slowernews/slowernews) - Don't  spend a shit-ton of time filtering trivia.
 - [krry/commonplace-foamy-nextjs](https://github.com/krry/commonplace-foamy-nextjs) - My commonplace book published as a digital garden using Foam and Foamy-NextJS
 - [chrisaldrich/chrisaldrich.github.io](https://github.com/chrisaldrich/chrisaldrich.github.io) - A TiddlyWiki commonplace book
@@ -269,7 +277,7 @@
 - [sobjornstad/TiddlyRemember](https://github.com/sobjornstad/TiddlyRemember) - Embed Anki notes in your TiddlyWiki
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - New UI WIP: https://github.com/razonyang/hugo-theme-bootstrap/pull/215. A fast, responsive, flexible and feature-rich Hugo theme.
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, flexible and feature-rich Hugo theme.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [fireship-io/threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) - 3D Scrolling Portfolio Website with Three.js
 - [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
@@ -327,6 +335,13 @@
 
 ## JavaScript 
 
+- [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors) - The smallest and fastest command-line coloring package on the internet. Trust me.
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
+- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
+- [Gk0Wk/TW5-CodeMirror-Enhanced](https://github.com/Gk0Wk/TW5-CodeMirror-Enhanced) - An enhanced for CodeMirror framework in TiddlyWiki, including TW5 highlight, WikiLink auto-completion, expandable hint, snippets, etc.
+- [inadeqtfuturs/garden](https://github.com/inadeqtfuturs/garden) - 🌱 a place to think about digital gardening
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [hoelzro/tiddlywiki-first-class-urls](https://github.com/hoelzro/tiddlywiki-first-class-urls) - An experimental plugin to make importing tiddlers easier
 - [Jermolene/sonic-pi-for-tiddlywiki](https://github.com/Jermolene/sonic-pi-for-tiddlywiki) - Jamming Sonic Pi with TiddlyWiki
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
@@ -395,7 +410,7 @@
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [toger5/TheBoard](https://github.com/toger5/TheBoard) - A collaborative Whiteboard powered by the [matrix] protocol and infrastucture.
-- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Free web UI for headless Chrome browser. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client
@@ -477,7 +492,7 @@
 - [mrdoob/frame.js](https://github.com/mrdoob/frame.js) - JavaScript Sequence Editor
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
-- [rsapkf/notes](https://github.com/rsapkf/notes) - @rsapkf's notes. Built using Docusaurus and Algolia DocSearch.
+- [rsapkf/notes](https://github.com/rsapkf/notes) - @rsapkf's notes. Built with Docusaurus and Algolia DocSearch.
 - [btahir/notion-capture](https://github.com/btahir/notion-capture) - Email capture page using Notion API
 - [mrmartineau/gatsby-starter-code-notes](https://github.com/mrmartineau/gatsby-starter-code-notes) - 
 - [nytimes/library](https://github.com/nytimes/library) - A collaborative documentation site, powered by Google Docs.
@@ -636,6 +651,7 @@
 
 ## Others 
 
+- [tiddly-gittly/TGNote](https://github.com/tiddly-gittly/TGNote) - TiddlyWiki based user friendly Note App, aim to be the most beautiful work-out-of-box edition of TiddlyWiki.
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
@@ -683,7 +699,6 @@
 - [sw-yx/launch-cheatsheet](https://github.com/sw-yx/launch-cheatsheet) - how smart people launch things - collected advice for beginner indiehackers, focused on pricing, landing pages, and everything else that you need going up to a launch.
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [planetjekyll/awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes) - A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
-- [kaganmert/notion.quest](https://github.com/kaganmert/notion.quest) - You can easily create your extended personal tracking website with Next.JS -TailwindCSS via Notion API. ❤️
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [Tuccinator/hn-moocs](https://github.com/Tuccinator/hn-moocs) - Best MOOCs as mentioned on Hacker News
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -707,9 +722,9 @@
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [awalvie/did-you-have-a-look-at-x](https://github.com/awalvie/did-you-have-a-look-at-x) - A collection of interesting links on the internet
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [notiondog/notion.dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [guinuxbr/KDEConnect-commands](https://github.com/guinuxbr/KDEConnect-commands) - List of examples to be used in KDE Connect.
 - [fu4303/developer-portfolio-starters](https://github.com/fu4303/developer-portfolio-starters) - ☄️🚧WIP🚧 Collection of starters for various templates.  11ty, NextJS, GatsbyJs, VueJs, Gridsome and others.  Links to starters, repos and the authors homepages.
 - [ddauber/athens-cheat-sheet](https://github.com/ddauber/athens-cheat-sheet) - Athens Cheat sheet
@@ -753,6 +768,7 @@
 
 ## PHP 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [victorqribeiro/imageCounter](https://github.com/victorqribeiro/imageCounter) - A simple page view counter that store data as text and shows data as a PNG image
@@ -777,6 +793,10 @@
 
 ## Python 
 
+- [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
+- [hmason/gitmarks](https://github.com/hmason/gitmarks) - delicious-like bookmarks on github.
+- [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [actionless/pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
@@ -974,11 +994,12 @@
 
 ## Shell 
 
+- [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
+- [Carbon-Bl4ck/Rofi-Beats](https://github.com/Carbon-Bl4ck/Rofi-Beats) - A rofi-like menu for playing lofi radio stations on MacOS.
 - [SamuraiWTF/samuraiwtf](https://github.com/SamuraiWTF/samuraiwtf) - The main SamuraiWTF collaborative distro repo.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
-- [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 400+ hacking tools that can be installed on single click.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
@@ -1005,9 +1026,9 @@
 - [hashhar/picard-beets-config](https://github.com/hashhar/picard-beets-config) - MusicBrainz Picard tagger scripts, config and beets config
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [htr-tech/host](https://github.com/htr-tech/host) - Expose your LocalHost with this tool
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
@@ -1050,6 +1071,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [theKashey/used-styles](https://github.com/theKashey/used-styles) - 📝All the critical styles you've used to render a page.
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
+- [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [DaveCoded/next-blog](https://github.com/DaveCoded/next-blog) - 
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀 Boilerplate and Starter for Next.js 11+, Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
 - [LekoArts/portfolio-v2](https://github.com/LekoArts/portfolio-v2) - Personal website with articles 📚, projects 🎨, and other information about me.
