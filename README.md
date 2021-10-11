@@ -53,6 +53,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vala](#vala)
   - [Verilog](#verilog)
   - [Vim script](#vim-script)
   - [Visual Basic .NET](#visual-basic-.net)
@@ -69,6 +70,9 @@
 
 ## C 
 
+- [rsta2/circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
+- [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
@@ -81,7 +85,6 @@
 - [PaulKlinger/mrna_vaccine_badge](https://github.com/PaulKlinger/mrna_vaccine_badge) - A small badge showing a schematic of an mRNA vaccine nanoparticle and blinking the RNA sequence of the Moderna or Pfizer vaccines.
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
 - [linux-apfs/linux-apfs-rw](https://github.com/linux-apfs/linux-apfs-rw) - APFS module for linux, with experimental write support
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
@@ -135,6 +138,9 @@
 
 ## CSS 
 
+- [bryanbraun/after-dark-css](https://github.com/bryanbraun/after-dark-css) - Recreating After Dark screensavers in CSS.
+- [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
+- [desmukh/gatsby-starter-woo](https://github.com/desmukh/gatsby-starter-woo) - StyleShout's Woo template ported to GatsbyJS
 - [adithya-badidey/TW-Karya](https://github.com/adithya-badidey/TW-Karya) - A minimal project/task manager for TiddlyWiki
 - [curiositry/mnml-ghost-theme](https://github.com/curiositry/mnml-ghost-theme) - A minimal, responsive, fast ghost blog theme with great typography. Comes with paid membership support, Disqus comments, syntax highlighting, and KaTeX for mathematics, and more.
 - [TryGhost/Wave](https://github.com/TryGhost/Wave) - A podcast/blog theme for Ghost
@@ -201,6 +207,7 @@
 
 ## Go 
 
+- [skx/sysbox](https://github.com/skx/sysbox) - sysadmin/scripting utilities, distributed as a single binary
 - [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -241,8 +248,10 @@
 
 ## HTML 
 
+- [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
+- [flakshack/SysAdminBoard](https://github.com/flakshack/SysAdminBoard) - Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more
 - [chrisdixon161/fun-javascript-projects.com](https://github.com/chrisdixon161/fun-javascript-projects.com) - Final code & stepped projects solutions for fun-javascript-projects.com
-- [BrickFrog/tw-blog](https://github.com/BrickFrog/tw-blog) - TiddlyWiki.
+- [brickfrog/brickfrog-tiddlywiki](https://github.com/brickfrog/brickfrog-tiddlywiki) - TiddlyWiki.
 - [kookma/status-badge](https://github.com/kookma/status-badge) - Tiddlywiki status badge
 - [unblocked-pw/unblocked-pw.github.io](https://github.com/unblocked-pw/unblocked-pw.github.io) - Github mirror for Unblocked
 - [slowernews/slowernews](https://github.com/slowernews/slowernews) - Don't  spend a shit-ton of time filtering trivia.
@@ -260,6 +269,7 @@
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [stevekrouse/WoofJS](https://github.com/stevekrouse/WoofJS) - Learnable JavaScript
 - [postkevone/TiddlyResearch](https://github.com/postkevone/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
+- [tiddly-gittly/tiddlywiki-plugins](https://github.com/tiddly-gittly/tiddlywiki-plugins) - Plugins developed for a better TiddlyGit.
 - [Souk21/TW-commandpalette](https://github.com/Souk21/TW-commandpalette) - A command palette for TiddlyWiki. Demo: https://souk21.github.io/TW-commandpalette/
 - [morosanuae/tw-icons](https://github.com/morosanuae/tw-icons) - A large collection of icons for TiddlyWiki
 - [kookma/TW-Shiraz](https://github.com/kookma/TW-Shiraz) - Shiraz is a small Tiddlywiki 5 plugin contains macros, stylesheets, templates, snippets, images, static tables, dynamic tables and acts as a starter kit.
@@ -290,6 +300,7 @@
 - [hugcis/hugcis.github.io](https://github.com/hugcis/hugcis.github.io) - Hugo Cisneros' personal website
 - [maximevaillancourt/maximevaillancourt.com](https://github.com/maximevaillancourt/maximevaillancourt.com) - Personal blog + digital garden 📝
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
+- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [mtlynch/mtlynch.io](https://github.com/mtlynch/mtlynch.io) - Source for mtlynch.io, a blog about technology and entrepreneurship.
 - [krishnakumarsekar/awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
@@ -315,6 +326,7 @@
 
 ## Java 
 
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [Marlinski/Rumble](https://github.com/Marlinski/Rumble) - Rumble allows the sharing of messages and pictures without relying on the Internet, in a Delay Tolerant Fashion following the Store-Carry and Forward paradigm
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - The third-party Telegram android app.
@@ -335,6 +347,9 @@
 
 ## JavaScript 
 
+- [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
+- [theRealPadster/spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) - Spicetify extension to hide podcasts
+- [Merkoba/Bone](https://github.com/Merkoba/Bone) - Minimalistic display of websites. With tiling, theme, and preset support
 - [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors) - The smallest and fastest command-line coloring package on the internet. Trust me.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
@@ -420,6 +435,7 @@
 - [weirdpattern/gatsby-remark-embed-gist](https://github.com/weirdpattern/gatsby-remark-embed-gist) - Gatsby remark gists preprocessor
 - [ekzhang/setwithfriends](https://github.com/ekzhang/setwithfriends) - 🎮 A frictionless multiplayer web app that lets you play Set with friends
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [logseq/publish](https://github.com/logseq/publish) - 
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -436,7 +452,6 @@
 - [jlengstorf/jason.af](https://github.com/jlengstorf/jason.af) - 
 - [filips123/FirefoxPWA](https://github.com/filips123/FirefoxPWA) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-- [tiddly-gittly/tiddlywiki-plugins](https://github.com/tiddly-gittly/tiddlywiki-plugins) - Plugins developed for a better TiddlyGit.
 - [tobibeer/tw5-plugins](https://github.com/tobibeer/tw5-plugins) - documentation for all plugins by tobibeer for TiddlyWiki5
 - [tobibeer/tw5-preview](https://github.com/tobibeer/tw5-preview) - a TiddlyWiki plugin to preview tiddlers when hovering links
 - [rimi/tw5-telmiger-plugins](https://github.com/rimi/tw5-telmiger-plugins) - 
@@ -508,7 +523,7 @@
 - [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [hikerpig/foam-template-gatsby-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - A foam template using gatsby-theme-kb for publishing your knowledge base
+- [hikerpig/foam-template-gatsby-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - A Foam/Obsidian template using gatsby-theme-kb for publishing your knowledge base
 - [sigstart/matrix-rain](https://github.com/sigstart/matrix-rain) - Matrix-like animation using HTML5 Canvas
 - [GraphCMS/gatsby-graphcms-ecommerce-starter](https://github.com/GraphCMS/gatsby-graphcms-ecommerce-starter) - Swag store built with GraphCMS, Stripe, Gatsby, Postmark and Printful.
 - [GraphCMS/graphcms-commerce-starter](https://github.com/GraphCMS/graphcms-commerce-starter) - 
@@ -588,6 +603,7 @@
 
 ## Jupyter Notebook 
 
+- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
 - [graviraja/100-Days-of-NLP](https://github.com/graviraja/100-Days-of-NLP) - 
@@ -601,6 +617,7 @@
 
 ## Kotlin 
 
+- [OmGodse/Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [flxapps/DetoxDroid](https://github.com/flxapps/DetoxDroid) - Use your phone rather than letting your phone use you.
 - [traccar/traccar-sms-gateway](https://github.com/traccar/traccar-sms-gateway) - Traccar SMS Gateway for Android
 - [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
@@ -651,6 +668,14 @@
 
 ## Others 
 
+- [unixorn/sysadmin-reading-list](https://github.com/unixorn/sysadmin-reading-list) - A reading and viewing list for larval stage sysadmins and SREs
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+- [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
+- [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+- [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
+- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+- [JoeWDavies/geoblender](https://github.com/JoeWDavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
 - [tiddly-gittly/TGNote](https://github.com/tiddly-gittly/TGNote) - TiddlyWiki based user friendly Note App, aim to be the most beautiful work-out-of-box edition of TiddlyWiki.
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
@@ -789,10 +814,16 @@
 
 ## PowerShell 
 
+- [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [TheRandomLabs/Scoop-Spotify](https://github.com/TheRandomLabs/Scoop-Spotify) - A Scoop bucket for Spotify, Spicetify and related packages.
 
 ## Python 
 
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [EONRaider/blackhat-python3](https://github.com/EONRaider/blackhat-python3) - Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
+- [sajjad2881/NewSyntopicon](https://github.com/sajjad2881/NewSyntopicon) - A better way to read books
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [hmason/gitmarks](https://github.com/hmason/gitmarks) - delicious-like bookmarks on github.
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
@@ -836,6 +867,7 @@
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [Thundergang/thunderuserbot](https://github.com/Thundergang/thunderuserbot) - Best Telegram Userbot, Made With Love... :)
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -854,7 +886,6 @@
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Chia-Network/pool-reference](https://github.com/Chia-Network/pool-reference) - Reference python implementation of Chia pool operations for pool operators
@@ -953,13 +984,16 @@
 
 ## Rust 
 
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [WesleyAC/commonplace](https://github.com/WesleyAC/commonplace) - knowledge system - notetaking, hierarchical tagging, mnemonic medium, exploring latent structure.
 - [seed-rs/seed-quickstart](https://github.com/seed-rs/seed-quickstart) - Bare essentials to start a Seed app.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [frenkel/timer-for-harvest](https://github.com/frenkel/timer-for-harvest) - Harvest time tracking client implemented using GTK and Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [TaKO8Ki/frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -986,7 +1020,6 @@
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A tiny CSS framework for building faithful recreations of the Windows 7 UI.
 - [abhinavs/moonwalk](https://github.com/abhinavs/moonwalk) - A fast & minimal Jekyll blog theme with clean dark mode
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 
 ## Scala 
 
@@ -994,6 +1027,8 @@
 
 ## Shell 
 
+- [hmage/norm](https://github.com/hmage/norm) - Rootless installer
+- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [Carbon-Bl4ck/Rofi-Beats](https://github.com/Carbon-Bl4ck/Rofi-Beats) - A rofi-like menu for playing lofi radio stations on MacOS.
 - [SamuraiWTF/samuraiwtf](https://github.com/SamuraiWTF/samuraiwtf) - The main SamuraiWTF collaborative distro repo.
@@ -1057,6 +1092,7 @@
 
 ## TypeScript 
 
+- [raimohanska/ourboard](https://github.com/raimohanska/ourboard) - An online whiteboard
 - [thomas-coldwell/nextjs-supabase-instagram-clone](https://github.com/thomas-coldwell/nextjs-supabase-instagram-clone) - 
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
@@ -1145,6 +1181,10 @@
 - [atlx/discord-term](https://github.com/atlx/discord-term) - Extensible Discord terminal client
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) - Solidity By Example
 - [elrypto/kode.art.template](https://github.com/elrypto/kode.art.template) - template project for kode.art tutorials
+
+## Vala 
+
+- [robertsanseries/ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity.
 
 ## Verilog 
 
