@@ -70,6 +70,8 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [rsta2/circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
@@ -112,6 +114,8 @@
 
 ## C++ 
 
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
+- [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [munt/munt](https://github.com/munt/munt) - A multi-platform software synthesiser emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I. In no way endorsed by or affiliated with Roland Corp.
 - [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 - [48cfu/game_of_life](https://github.com/48cfu/game_of_life) - The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. [Wikipedia]
@@ -138,6 +142,7 @@
 
 ## CSS 
 
+- [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [bryanbraun/after-dark-css](https://github.com/bryanbraun/after-dark-css) - Recreating After Dark screensavers in CSS.
 - [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
 - [desmukh/gatsby-starter-woo](https://github.com/desmukh/gatsby-starter-woo) - StyleShout's Woo template ported to GatsbyJS
@@ -268,7 +273,7 @@
 - [eatonphil/notes.eatonphil.com](https://github.com/eatonphil/notes.eatonphil.com) - 
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [stevekrouse/WoofJS](https://github.com/stevekrouse/WoofJS) - Learnable JavaScript
-- [postkevone/TiddlyResearch](https://github.com/postkevone/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
+- [postkevone/tiddlyresearch](https://github.com/postkevone/tiddlyresearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
 - [tiddly-gittly/tiddlywiki-plugins](https://github.com/tiddly-gittly/tiddlywiki-plugins) - Plugins developed for a better TiddlyGit.
 - [Souk21/TW-commandpalette](https://github.com/Souk21/TW-commandpalette) - A command palette for TiddlyWiki. Demo: https://souk21.github.io/TW-commandpalette/
 - [morosanuae/tw-icons](https://github.com/morosanuae/tw-icons) - A large collection of icons for TiddlyWiki
@@ -281,7 +286,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [andronov04/mondrian-art](https://github.com/andronov04/mondrian-art) - 🖼️ Generate Piet Mondrian Art
 - [rr-tw5/rr-tw5.github.io](https://github.com/rr-tw5/rr-tw5.github.io) - A Roam Research Styled TiddlyWiki
-- [postkevone/tiddlystudy](https://github.com/postkevone/tiddlystudy) - 
+- [postkevone/tiddlystudy](https://github.com/postkevone/tiddlystudy) - note-taking tool based on tiddlywiki
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [joekroese/tiddlyroam](https://github.com/joekroese/tiddlyroam) - Your open source external brain
 - [sobjornstad/TiddlyRemember](https://github.com/sobjornstad/TiddlyRemember) - Embed Anki notes in your TiddlyWiki
@@ -326,6 +331,7 @@
 
 ## Java 
 
+- [linonetwo/tiddlywiki-quickadd-android](https://github.com/linonetwo/tiddlywiki-quickadd-android) - Quick add message, and sync to nodejs tiddlywiki when you are home. (WIP ! I'm still learning android )
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [Marlinski/Rumble](https://github.com/Marlinski/Rumble) - Rumble allows the sharing of messages and pictures without relying on the Internet, in a Delay Tolerant Fashion following the Store-Carry and Forward paradigm
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
@@ -347,6 +353,12 @@
 
 ## JavaScript 
 
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
+- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Run web apps on your desktop.
+- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible chat, voice and video platform
 - [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 - [theRealPadster/spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) - Spicetify extension to hide podcasts
 - [Merkoba/Bone](https://github.com/Merkoba/Bone) - Minimalistic display of websites. With tiling, theme, and preset support
@@ -415,7 +427,7 @@
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [uwu-tech/Kind](https://github.com/uwu-tech/Kind) - A modern proof language
+- [kind-lang/Kind](https://github.com/kind-lang/Kind) - A modern proof language
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [calculist/calculist](https://github.com/calculist/calculist) - the open source thinking tool for problem solvers
 - [vikrum/kidpix](https://github.com/vikrum/kidpix) - JSKIDPIX v1.0.2021
@@ -617,6 +629,7 @@
 
 ## Kotlin 
 
+- [Iamlooker/Droid-ify](https://github.com/Iamlooker/Droid-ify) - F-Droid client with Material UI.
 - [OmGodse/Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [flxapps/DetoxDroid](https://github.com/flxapps/DetoxDroid) - Use your phone rather than letting your phone use you.
 - [traccar/traccar-sms-gateway](https://github.com/traccar/traccar-sms-gateway) - Traccar SMS Gateway for Android
@@ -654,7 +667,6 @@
 
 ## Nix 
 
-- [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) - Matrix client / Element Web/Desktop fork
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 
 ## Objective-C 
@@ -819,6 +831,10 @@
 
 ## Python 
 
+- [nicholasbernstein/YouPodder](https://github.com/nicholasbernstein/YouPodder) - Quick python program that can download a youtube video, save it as a mp3, and then add a pre/post audio clip to it.
+- [AnimeKaizoku/ArchivistsBot](https://github.com/AnimeKaizoku/ArchivistsBot) - 
+- [Ayush7445/pdiskconverter](https://github.com/Ayush7445/pdiskconverter) - Pdisk Link Converter Telegram Bot, Convert link in a single click
+- [HeimanPictures/Pdisk-Upload-Bot](https://github.com/HeimanPictures/Pdisk-Upload-Bot) - This is Pdisk Upload Bot made using Python with Pyrogram Framework. Its capable of uploading direct download link with thumbnail or without thumbnail & with Title Support.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [EONRaider/blackhat-python3](https://github.com/EONRaider/blackhat-python3) - Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
@@ -830,7 +846,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [actionless/pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
-- [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [prgofficial/FileToLink](https://github.com/prgofficial/FileToLink) - A Telegram bot that can stream Telegram files to users over HTTP
 - [Artis7eeR/ForwardTagRemoverBot](https://github.com/Artis7eeR/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
@@ -984,6 +1000,7 @@
 
 ## Rust 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1015,6 +1032,7 @@
 
 ## SCSS 
 
+- [wirtzdan/logseq-paper-theme](https://github.com/wirtzdan/logseq-paper-theme) - A minimal and paper-like theme for Logseq
 - [juliancwirko/abc](https://github.com/juliancwirko/abc) - Free theme for your Ghost blog
 - [zutrinken/attila](https://github.com/zutrinken/attila) - Ghost Theme
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A tiny CSS framework for building faithful recreations of the Windows 7 UI.
@@ -1027,6 +1045,10 @@
 
 ## Shell 
 
+- [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
+- [nicholasbernstein/pomo.sh](https://github.com/nicholasbernstein/pomo.sh) - Very quick pomodoro timer utility for linux that can be run on bash and pops up a desktop notification icon.
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [hmage/norm](https://github.com/hmage/norm) - Rootless installer
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
@@ -1034,7 +1056,7 @@
 - [SamuraiWTF/samuraiwtf](https://github.com/SamuraiWTF/samuraiwtf) - The main SamuraiWTF collaborative distro repo.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
-- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
+- [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) - Matrix client / Element Web/Desktop fork
 - [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 400+ hacking tools that can be installed on single click.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
@@ -1047,7 +1069,7 @@
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [sdushantha/snaprecovery](https://github.com/sdushantha/snaprecovery) - Recover old Snaps that have “disappeared” from Snapchat
 - [ndren/redbean-onionshare](https://github.com/ndren/redbean-onionshare) - OnionShare; no Flask, just redbean.
-- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR inspired package manager for Ubuntu
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [Bhaviktutorials/T-Remix](https://github.com/Bhaviktutorials/T-Remix) - This Tool will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look And it also haas feature of password, you can also set  Password on your Termux.
 - [JacobEvelyn/git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Stop trying to always blame others and take some responsibility already.
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
@@ -1081,6 +1103,7 @@
 
 ## Swift 
 
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [rknightuk/TrackerZapper](https://github.com/rknightuk/TrackerZapper) - Menubar app to remove link tracking parameters automatically
 
 ## TeX 
@@ -1092,6 +1115,8 @@
 
 ## TypeScript 
 
+- [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js 11 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
+- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [raimohanska/ourboard](https://github.com/raimohanska/ourboard) - An online whiteboard
 - [thomas-coldwell/nextjs-supabase-instagram-clone](https://github.com/thomas-coldwell/nextjs-supabase-instagram-clone) - 
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
@@ -1209,6 +1234,7 @@
 
 ## Vue 
 
+- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website) - Codebase for sigstore.dev
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [karngyan/karngyan.com.og](https://github.com/karngyan/karngyan.com.og) - Original Gangster
