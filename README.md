@@ -52,6 +52,7 @@
   - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [SuperCollider](#supercollider)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -78,6 +79,9 @@
 
 ## C 
 
+- [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [Ildaron/ironbci](https://github.com/Ildaron/ironbci) - Brain-Computer Interface, ADS1299 and STM32
 - [pure-data/pure-data](https://github.com/pure-data/pure-data) - Pure Data -  a free real-time computer music system
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -128,6 +132,8 @@
 
 ## C++ 
 
+- [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
+- [digego/extempore](https://github.com/digego/extempore) - A cyber-physical programming environment
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -209,7 +215,7 @@
 
 - [witch-house/pronoun.is](https://github.com/witch-house/pronoun.is) - Show people how to use pronouns!
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## Common Lisp 
@@ -237,6 +243,9 @@
 
 ## Go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
@@ -282,6 +291,7 @@
 
 ## HTML 
 
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [consoledotdev/home](https://github.com/consoledotdev/home) - The Console website.
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [monome/docs](https://github.com/monome/docs) - monome.org/docs
@@ -357,6 +367,8 @@
 
 ## Haskell 
 
+- [cleary/livecode](https://github.com/cleary/livecode) - Live code for Tidalcycles, Supercollider and potentially others
+- [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [lil-data/vroomvroom](https://github.com/lil-data/vroomvroom) - Charli XCX - Vroom Vroom (Lil Data TidalCycles live coding edit)
 - [lvm/tidal-drum-patterns](https://github.com/lvm/tidal-drum-patterns) - TidalCycles / Haskell modules of drum patterns.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -401,6 +413,9 @@
 
 ## JavaScript 
 
+- [0b5vr/TidalBot](https://github.com/0b5vr/TidalBot) - Discord BOT: Play with TidalCycles!
+- [cntrump/hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
+- [himakhaitan/TheChaotic](https://github.com/himakhaitan/TheChaotic) - The Chaotic is a Personal Blog Website 💻 made using MERN Stack. The theme of the website is set to aesthetic as well as inspiring🌱. To be more precise, the website is set to target Youth Audience as a whole. 🧲
 - [CharlieS1103/spicetify-marketplace](https://github.com/CharlieS1103/spicetify-marketplace) - Download Extensions and Themes Directly from Spicetify
 - [Xetera/Anime-Girls-Holding-Programming-Books](https://github.com/Xetera/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [ckeditor/github-writer](https://github.com/ckeditor/github-writer) - GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
@@ -421,7 +436,7 @@
 - [ebirger/netpen](https://github.com/ebirger/netpen) - netpen
 - [DusteDdk/dstream](https://github.com/DusteDdk/dstream) - bespoke music player for web
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -461,7 +476,7 @@
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [segmentio/metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
+- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
@@ -574,7 +589,7 @@
 - [chuan-khuna/gatsby-theme-terminal](https://github.com/chuan-khuna/gatsby-theme-terminal) - Based on PaulieScanlon's gatsby theme. with my simple pagination feature
 - [dferber90/gatsby-starter-help-center](https://github.com/dferber90/gatsby-starter-help-center) - 📙A free self-hosted help center
 - [maple3142/ghfileupl](https://github.com/maple3142/ghfileupl) - 
-- [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
+- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [SaraVieira/cssx](https://github.com/SaraVieira/cssx) - CSS in MDX
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
@@ -754,6 +769,7 @@
 
 ## Others 
 
+- [CBPP/cbpp](https://github.com/CBPP/cbpp) - #!++, A CrunchBang revival project.
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
@@ -920,6 +936,7 @@
 
 ## Python 
 
+- [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service
 - [ales-tsurko/cells](https://github.com/ales-tsurko/cells) - Live coding environment. Use SuperCollider, Python, TidalCycles, Node.js etc. in the same project.
 - [falkTX/Catia](https://github.com/falkTX/Catia) - Simple JACK Patchbay with A2J integration and JACK Transport controls
 - [mfolejewski/MirkoPC](https://github.com/mfolejewski/MirkoPC) - Modular Integrated Raspberry Pi Computer
@@ -1089,6 +1106,7 @@
 
 ## Ruby 
 
+- [cleary/ansible-tidalcycles](https://github.com/cleary/ansible-tidalcycles) - ansible playbooks for installing the Tidal Cycles live coding environment with a single command, supporting multiple editors commonly used with Tidal
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [thundergolfer/automated-github-organization-invites](https://github.com/thundergolfer/automated-github-organization-invites) - Quickly host a webpage allowing people to click and receive an invite to your Github Organization.
@@ -1103,6 +1121,8 @@
 
 ## Rust 
 
+- [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
+- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which runs Systemd as init process. You can run Ubuntu, Arch, and et.c with systemd in a minute. Distrod also has built-in auto-start feature on Windows startup and port forwarding abiltiy.
 - [yatima-inc/yatima](https://github.com/yatima-inc/yatima) - A programming language for the decentralized web
@@ -1155,12 +1175,17 @@
 
 ## Scala 
 
+- [oliversavio/youtube-vid-code](https://github.com/oliversavio/youtube-vid-code) - This repo contains code related to my YouTube videos
+- [spark-examples/spark-scala-examples](https://github.com/spark-examples/spark-scala-examples) - This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
+- [databricks/spark-xml](https://github.com/databricks/spark-xml) - XML data source for Spark SQL and DataFrames
 - [rockthejvm/spark-essentials](https://github.com/rockthejvm/spark-essentials) - The official repository for the Rock the JVM Spark Essentials with Scala course
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 
 ## Shell 
 
+- [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh
+- [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [lvm/build-supercollider](https://github.com/lvm/build-supercollider) - A dead simple script that builds and installs Supercollider
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -1185,7 +1210,7 @@
 - [nicholasbernstein/pomo.sh](https://github.com/nicholasbernstein/pomo.sh) - Very quick pomodoro timer utility for linux that can be run on bash and pops up a desktop notification icon.
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [hmage/norm](https://github.com/hmage/norm) - Rootless installer
-- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [Carbon-Bl4ck/Rofi-Beats](https://github.com/Carbon-Bl4ck/Rofi-Beats) - A rofi-like menu for playing lofi radio stations on MacOS.
 - [SamuraiWTF/samuraiwtf](https://github.com/SamuraiWTF/samuraiwtf) - The main SamuraiWTF collaborative distro repo.
@@ -1232,6 +1257,10 @@
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [RaitaroH/adl](https://github.com/RaitaroH/adl) - 🍿 anime-downloader + trackma wrapper
 
+## SuperCollider 
+
+- [tedthetrumpet/tidal](https://github.com/tedthetrumpet/tidal) - Experiments with TidalCycles
+
 ## Svelte 
 
 - [Aias/barnsworthburning](https://github.com/Aias/barnsworthburning) - A commonplace book.
@@ -1253,6 +1282,11 @@
 
 ## TypeScript 
 
+- [writewithocto/ink](https://github.com/writewithocto/ink) - The configurable, embeddable, extensible JavaScript Markdown editor that powers https://octo.app.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [kindohm/vscode-tidalcycles](https://github.com/kindohm/vscode-tidalcycles) - Support for TidalCycles in VSCode
+- [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+- [ryohey/signal](https://github.com/ryohey/signal) - A friendly music sequencer built with web technology
 - [munshkr/flok](https://github.com/munshkr/flok) - Web-based P2P collaborative editor for live coding sounds and images
 - [Xetera/simp.pics](https://github.com/Xetera/simp.pics) - 💃 Kpop image aggregator
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
@@ -1370,6 +1404,9 @@
 
 ## Vim script 
 
+- [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
+- [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [tidalcycles/vim-tidal](https://github.com/tidalcycles/vim-tidal) - Vim plugin for TidalCycles
 - [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
