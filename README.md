@@ -18,6 +18,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
+  - [F#](#f#)
   - [Go](#go)
   - [HTML](#html)
   - [Hack](#hack)
@@ -79,6 +80,7 @@
 
 ## C 
 
+- [lanoxx/tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
@@ -132,6 +134,8 @@
 
 ## C++ 
 
+- [u8sand/Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer) - The libmpv based media player
+- [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [digego/extempore](https://github.com/digego/extempore) - A cyber-physical programming environment
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
@@ -241,6 +245,10 @@
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
+## F# # 
+
+- [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
+
 ## Go 
 
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -271,7 +279,7 @@
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [varbhat/torpar](https://github.com/varbhat/torpar) - TUI Client for Torrent Paradise
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
-- [naggie/dstask](https://github.com/naggie/dstask) - Terminal-based todo manager -- git-based sync + markdown note page per task. Single binary!
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo manager --  markdown note page per task. Single binary!
 - [bereal/goddlywiki](https://github.com/bereal/goddlywiki) - A self-contained app that allows using TiddlyWiki with nicely working saving
 - [quaintdev/pinotes](https://github.com/quaintdev/pinotes) - Self hosted notes for Raspberry Pi
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -291,6 +299,8 @@
 
 ## HTML 
 
+- [XXIIVV/oscean](https://github.com/XXIIVV/oscean) - Oscean wiki sources
+- [tzarc/djinn](https://github.com/tzarc/djinn) - Djinn Split Keyboard
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [consoledotdev/home](https://github.com/consoledotdev/home) - The Console website.
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -367,7 +377,7 @@
 
 ## Haskell 
 
-- [cleary/livecode](https://github.com/cleary/livecode) - Live code for Tidalcycles, Supercollider and potentially others
+- [cleary/livecode](https://github.com/cleary/livecode) - Live code, configs, and references for Tidalcycles, Estuary, Supercollider and potentially others
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [lil-data/vroomvroom](https://github.com/lil-data/vroomvroom) - Charli XCX - Vroom Vroom (Lil Data TidalCycles live coding edit)
 - [lvm/tidal-drum-patterns](https://github.com/lvm/tidal-drum-patterns) - TidalCycles / Haskell modules of drum patterns.
@@ -386,6 +396,7 @@
 
 ## Java 
 
+- [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -413,6 +424,8 @@
 
 ## JavaScript 
 
+- [matrix-org/matrix.to](https://github.com/matrix-org/matrix.to) - A simple stateless privacy-protecting URL redirecting service for Matrix
+- [JinayJain/just-a-minute](https://github.com/JinayJain/just-a-minute) - A web experiment to see how well you can estimate a minute.
 - [0b5vr/TidalBot](https://github.com/0b5vr/TidalBot) - Discord BOT: Play with TidalCycles!
 - [cntrump/hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
 - [himakhaitan/TheChaotic](https://github.com/himakhaitan/TheChaotic) - The Chaotic is a Personal Blog Website 💻 made using MERN Stack. The theme of the website is set to aesthetic as well as inspiring🌱. To be more precise, the website is set to target Youth Audience as a whole. 🧲
@@ -424,7 +437,7 @@
 - [Qinti/nazca](https://github.com/Qinti/nazca) - A new way of creating GUI in the web
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
-- [oflg/fishing](https://github.com/oflg/fishing) - Flashcards integrated in TiddlyWiki, fishing with algorithm of Anki.
+- [oflg/fishing](https://github.com/oflg/fishing) - Flashcards and Incremental Reading integrated in TiddlyWiki, fishing with algorithm of Anki.
 - [inmindos/thinking-flaws](https://github.com/inmindos/thinking-flaws) - A collection of all the flaws in thinking - cognitive biases, fallacies, psychological weirdities and more.
 - [SparkPost/heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
@@ -466,7 +479,7 @@
 - [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [ajayns/gatsby-absurd](https://github.com/ajayns/gatsby-absurd) - An absurd Gatsby starter
-- [cobidev/gatsby-simplefolio](https://github.com/cobidev/gatsby-simplefolio) - ⚡️ A minimal Gatsby portfolio template for Developers
+- [C0B1T0/gatsby-simplefolio](https://github.com/C0B1T0/gatsby-simplefolio) - ⚡️ A minimal Gatsby portfolio template for Developers
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [john-smilga/gatsby-v3-tutorial-recipes](https://github.com/john-smilga/gatsby-v3-tutorial-recipes) - 
 - [freearhey/iptv-checker](https://github.com/freearhey/iptv-checker) - Node.js CLI tool for checking links in IPTV playlists
@@ -583,7 +596,6 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [samuelkraft/notion-blog-nextjs](https://github.com/samuelkraft/notion-blog-nextjs) - Next.js example blog powered by Notion Public API
 - [leerob/notion-api-nextjs](https://github.com/leerob/notion-api-nextjs) - Example of using the Notion API with Next.js.
-- [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling
 - [cofinley/free-roam](https://github.com/cofinley/free-roam) - An attempt to recreate the major parts of Roam for offline use
 - [binyamin/dg-webring](https://github.com/binyamin/dg-webring) - A webring for digital gardens. Inspired by @maxboeck
 - [chuan-khuna/gatsby-theme-terminal](https://github.com/chuan-khuna/gatsby-theme-terminal) - Based on PaulieScanlon's gatsby theme. with my simple pagination feature
@@ -697,6 +709,7 @@
 
 ## Jupyter Notebook 
 
+- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [deanwampler/JustEnoughScalaForSpark](https://github.com/deanwampler/JustEnoughScalaForSpark) - A tutorial on the most important features and idioms of Scala that you need to use Spark's Scala APIs.
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
@@ -724,7 +737,10 @@
 
 ## Lua 
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.5+.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [itsyourbedtime/orca](https://github.com/itsyourbedtime/orca) - Lua port of @neauoire orca for monome norns
 - [marcopixel/monstercat-visualizer](https://github.com/marcopixel/monstercat-visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
 - [marko-cerovac/material.nvim](https://github.com/marko-cerovac/material.nvim) - :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
@@ -769,6 +785,10 @@
 
 ## Others 
 
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
+- [XXIIVV/font-collection](https://github.com/XXIIVV/font-collection) - 
+- [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [CBPP/cbpp](https://github.com/CBPP/cbpp) - #!++, A CrunchBang revival project.
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -936,6 +956,7 @@
 
 ## Python 
 
+- [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
 - [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service
 - [ales-tsurko/cells](https://github.com/ales-tsurko/cells) - Live coding environment. Use SuperCollider, Python, TidalCycles, Node.js etc. in the same project.
 - [falkTX/Catia](https://github.com/falkTX/Catia) - Simple JACK Patchbay with A2J integration and JACK Transport controls
@@ -1121,12 +1142,17 @@
 
 ## Rust 
 
+- [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [wfxr/code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which runs Systemd as init process. You can run Ubuntu, Arch, and et.c with systemd in a minute. Distrod also has built-in auto-start feature on Windows startup and port forwarding abiltiy.
 - [yatima-inc/yatima](https://github.com/yatima-inc/yatima) - A programming language for the decentralized web
-- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - An open-source Digital Audio Workstation, made by musicians, for musicians
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation, made by musicians, for musicians
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
@@ -1166,6 +1192,7 @@
 
 ## SCSS 
 
+- [cabalamat/catwiki](https://github.com/cabalamat/catwiki) - CatWiki is a simple wiki that stores its articles as text files
 - [wirtzdan/logseq-paper-theme](https://github.com/wirtzdan/logseq-paper-theme) - A minimal and paper-like theme for Logseq ✍️
 - [juliancwirko/abc](https://github.com/juliancwirko/abc) - Free theme for your Ghost blog
 - [zutrinken/attila](https://github.com/zutrinken/attila) - Ghost Theme
@@ -1175,6 +1202,7 @@
 
 ## Scala 
 
+- [almond-sh/almond](https://github.com/almond-sh/almond) - A Scala kernel for Jupyter
 - [oliversavio/youtube-vid-code](https://github.com/oliversavio/youtube-vid-code) - This repo contains code related to my YouTube videos
 - [spark-examples/spark-scala-examples](https://github.com/spark-examples/spark-scala-examples) - This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
 - [databricks/spark-xml](https://github.com/databricks/spark-xml) - XML data source for Spark SQL and DataFrames
@@ -1263,6 +1291,7 @@
 
 ## Svelte 
 
+- [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 - [Aias/barnsworthburning](https://github.com/Aias/barnsworthburning) - A commonplace book.
 
 ## Swift 
@@ -1282,13 +1311,15 @@
 
 ## TypeScript 
 
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [writewithocto/ink](https://github.com/writewithocto/ink) - The configurable, embeddable, extensible JavaScript Markdown editor that powers https://octo.app.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [kindohm/vscode-tidalcycles](https://github.com/kindohm/vscode-tidalcycles) - Support for TidalCycles in VSCode
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [ryohey/signal](https://github.com/ryohey/signal) - A friendly music sequencer built with web technology
 - [munshkr/flok](https://github.com/munshkr/flok) - Web-based P2P collaborative editor for live coding sounds and images
-- [Xetera/simp.pics](https://github.com/Xetera/simp.pics) - 💃 Kpop image aggregator
+- [Xetera/kiyomi](https://github.com/Xetera/kiyomi) - 💃 Kpop image aggregator
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [valentine195/obsidian-dice-roller](https://github.com/valentine195/obsidian-dice-roller) - Inline dice rolling for Obsidian.md
 - [kinabalu/obsidian-word-sprint](https://github.com/kinabalu/obsidian-word-sprint) - Obsidian Word Sprint plugin
@@ -1357,6 +1388,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [nessjs/ness](https://github.com/nessjs/ness) - Deploy web sites and apps to your own cloud account effortlessly.
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
+- [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling
 - [hodgef/PRSS](https://github.com/hodgef/PRSS) - Build blazing fast blogs, documentation sites, showcases and more.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation) - React wrapper for rough-notation
@@ -1404,6 +1436,7 @@
 
 ## Vim script 
 
+- [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
